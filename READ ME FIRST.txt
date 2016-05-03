@@ -1,0 +1,4 @@
+1> The program FractalGrammars.java uses the sample.txt file provided in the package.
+2> The program Tree.java uses the Tree.txt file provided in the packae.
+3> To run the programs copy and paste each program in different class files in an IDE that runs java and copy the two text files
+where your workspace is created. 
